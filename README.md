@@ -1,1 +1,1 @@
-# HelloGit
+# HelloGit этот файл для чтения
